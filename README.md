@@ -1,11 +1,11 @@
 # Project Portfolio
 
-Hello, my name is Alex. I am a first-year undergraduate Computer Science
-student at the University of Birmingham in the UK. I am currently
-learning about programming and software engineering, focusing on the C,
-C++ and Python languages. I am particularly interested in Free and Open
-Source software and I am learning to use Linux and some of the core Unix
-utilities at the same time.
+Hello :wave:, my name is Alex. I am a first-year undergraduate Computer Science
+student :mortar_board: at the University of Birmingham in the UK :uk: . I am currently
+learning about programming and software engineering :construction_worker:, focusing on the C,
+C++ and Python :snake: languages. I am particularly interested in Free and Open
+Source software and I am learning to use Linux :penguin: and some of the core Unix
+utilities :toolbox: at the same time.
 
 [:bust_in_silhouette: alexneville.co.uk](https://alexneville.co.uk) / [:mailbox: contact@alexneville.co.uk](mailto:contact@alexneville.co.uk)
 
