@@ -2,13 +2,16 @@
 
 Hello, my name is Alex. I am a first-year undergraduate Computer Science
 student at the University of Birmingham in the UK. I am currently
-learning about programming and software engineering,  focusing on the C,
+learning about programming and software engineering, focusing on the C,
 C++ and Python languages. I am particularly interested in Free and Open
 Source software and I am learning to use Linux and some of the core Unix
 utilities at the same time.
 
-[:bust_in_silhouette: alexneville.co.uk](https://alexneville.co.uk) / [:mailbox: contact@alexneville.co.uk](mailto:contact@alexneville.co.uk)
+[:house: alexneville.co.uk](https://alexneville.co.uk)
 
+[:mailbox: contact@alexneville.co.uk](mailto:contact@alexneville.co.uk)
+
+[:key: PGP public key](https://keys.openpgp.org/vks/v1/by-fingerprint/6526651FCB32C82BB3A6449C97BAC3EFF6C6C53D)
 
 ## :gear: System Configuration
 
@@ -29,4 +32,4 @@ utilities at the same time.
 - [Memory Allocator](https://github.com/alexanderneville/memory_allocator)
 - [x86 Assembly Programming](https://github.com/alexanderneville/assembly)
 - [Cmatrix Clone](https://github.com/alexanderneville/cmatrix)
-- [Browser Start Page](https://github.com/alexanderneville/start-page)
+- [My Home Page](https://github.com/alexanderneville/website)
